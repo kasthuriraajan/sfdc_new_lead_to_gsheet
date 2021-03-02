@@ -1,0 +1,7 @@
+[package]
+org = "kasthuriraajan"
+name = "sfdc_new_lead_to_gsheet"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
